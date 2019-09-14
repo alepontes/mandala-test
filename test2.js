@@ -24,7 +24,3 @@ const printDestination = (ddd) => {
 
 
 while (true) printDestination(readlineSync.question(""))
-
-
-
-
